@@ -14,4 +14,4 @@ O desafio era desenvolver uma RESTful API onde é possível:
 - Consultar saldo da conta bancária
 - Emitir extrato bancário
 
-Desenvolvido em Julho de 2022 usando JavaScript.
+Desenvolvido em Julho de 2022 usando JavaScript, NodeJs, Express, Knex e PostgresSQL.
